@@ -36,10 +36,10 @@ const RAW_RUNTIME_STATE =
           ["@types/prismjs", "npm:1.26.5"],\
           ["clsx", "npm:2.1.1"],\
           ["prism-react-renderer", "virtual:f78c1e3bcca68c85029c31baaa03b00afb3f4a37fdf75a02a5c6641bf68e41c67a7197a443bdedd194efbd0fd58485f0fa4ac537f6319161bde534249e729f39#npm:2.4.1"],\
-          ["prismjs", "npm:1.29.0"],\
+          ["prismjs", "npm:1.30.0"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:f78c1e3bcca68c85029c31baaa03b00afb3f4a37fdf75a02a5c6641bf68e41c67a7197a443bdedd194efbd0fd58485f0fa4ac537f6319161bde534249e729f39#npm:18.3.1"],\
-          ["typescript", "patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"],\
+          ["typescript", "patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"],\
           ["utility-types", "npm:3.11.0"]\
         ],\
         "linkType": "SOFT"\
@@ -8204,10 +8204,10 @@ const RAW_RUNTIME_STATE =
           ["@types/prismjs", "npm:1.26.5"],\
           ["clsx", "npm:2.1.1"],\
           ["prism-react-renderer", "virtual:f78c1e3bcca68c85029c31baaa03b00afb3f4a37fdf75a02a5c6641bf68e41c67a7197a443bdedd194efbd0fd58485f0fa4ac537f6319161bde534249e729f39#npm:2.4.1"],\
-          ["prismjs", "npm:1.29.0"],\
+          ["prismjs", "npm:1.30.0"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:f78c1e3bcca68c85029c31baaa03b00afb3f4a37fdf75a02a5c6641bf68e41c67a7197a443bdedd194efbd0fd58485f0fa4ac537f6319161bde534249e729f39#npm:18.3.1"],\
-          ["typescript", "patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"],\
+          ["typescript", "patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"],\
           ["utility-types", "npm:3.11.0"]\
         ],\
         "linkType": "SOFT"\
@@ -14469,6 +14469,13 @@ const RAW_RUNTIME_STATE =
           ["prismjs", "npm:1.29.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:1.30.0", {\
+        "packageLocation": "../../AppData/Local/Yarn/Berry/cache/prismjs-npm-1.30.0-c3c5ff824c-10c0.zip/node_modules/prismjs/",\
+        "packageDependencies": [\
+          ["prismjs", "npm:1.30.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["proc-log", [\
@@ -16477,10 +16484,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["typescript", [\
-      ["patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5", {\
-        "packageLocation": "../../AppData/Local/Yarn/Berry/cache/typescript-patch-6da68bae26-10c0.zip/node_modules/typescript/",\
+      ["patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5", {\
+        "packageLocation": "../../AppData/Local/Yarn/Berry/cache/typescript-patch-26c53754b1-10c0.zip/node_modules/typescript/",\
         "packageDependencies": [\
-          ["typescript", "patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"]\
+          ["typescript", "patch:typescript@npm%3A5.8.2#optional!builtin<compat/typescript>::version=5.8.2&hash=5786d5"]\
         ],\
         "linkType": "HARD"\
       }]\
