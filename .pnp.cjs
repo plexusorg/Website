@@ -2500,10 +2500,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime-corejs3", [\
-      ["npm:7.26.9", {\
-        "packageLocation": "../../.yarn/berry/cache/@babel-runtime-corejs3-npm-7.26.9-635d7b13c7-10c0.zip/node_modules/@babel/runtime-corejs3/",\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-runtime-corejs3-npm-7.27.0-fb10baaeea-10c0.zip/node_modules/@babel/runtime-corejs3/",\
         "packageDependencies": [\
-          ["@babel/runtime-corejs3", "npm:7.26.9"],\
+          ["@babel/runtime-corejs3", "npm:7.27.0"],\
           ["core-js-pure", "npm:3.40.0"],\
           ["regenerator-runtime", "npm:0.14.1"]\
         ],\
@@ -3621,7 +3621,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/preset-react", "virtual:3de7054a440e27c8dc532433433498a121ce70dd352f02ec9302e54d406c0307a51ccab5a23ac509ae13f0d3e341cea8f645179281243a45f09d61d598ee0bba#npm:7.26.3"],\
           ["@babel/preset-typescript", "virtual:3de7054a440e27c8dc532433433498a121ce70dd352f02ec9302e54d406c0307a51ccab5a23ac509ae13f0d3e341cea8f645179281243a45f09d61d598ee0bba#npm:7.26.0"],\
           ["@babel/runtime", "npm:7.26.9"],\
-          ["@babel/runtime-corejs3", "npm:7.26.9"],\
+          ["@babel/runtime-corejs3", "npm:7.27.0"],\
           ["@babel/traverse", "npm:7.26.9"],\
           ["@docusaurus/logger", "npm:3.7.0"],\
           ["@docusaurus/utils", "npm:3.7.0"],\
