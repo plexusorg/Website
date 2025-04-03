@@ -2490,10 +2490,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime", [\
-      ["npm:7.26.9", {\
-        "packageLocation": "../../.yarn/berry/cache/@babel-runtime-npm-7.26.9-8369ff039f-10c0.zip/node_modules/@babel/runtime/",\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-runtime-npm-7.27.0-67ce9cb54f-10c0.zip/node_modules/@babel/runtime/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
@@ -3620,7 +3620,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/preset-env", "virtual:3de7054a440e27c8dc532433433498a121ce70dd352f02ec9302e54d406c0307a51ccab5a23ac509ae13f0d3e341cea8f645179281243a45f09d61d598ee0bba#npm:7.26.9"],\
           ["@babel/preset-react", "virtual:3de7054a440e27c8dc532433433498a121ce70dd352f02ec9302e54d406c0307a51ccab5a23ac509ae13f0d3e341cea8f645179281243a45f09d61d598ee0bba#npm:7.26.3"],\
           ["@babel/preset-typescript", "virtual:3de7054a440e27c8dc532433433498a121ce70dd352f02ec9302e54d406c0307a51ccab5a23ac509ae13f0d3e341cea8f645179281243a45f09d61d598ee0bba#npm:7.26.0"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@babel/runtime-corejs3", "npm:7.26.9"],\
           ["@babel/traverse", "npm:7.26.9"],\
           ["@docusaurus/logger", "npm:3.7.0"],\
@@ -5003,7 +5003,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@slorber-react-helmet-async-virtual-9fef55d26d/3/.yarn/berry/cache/@slorber-react-helmet-async-npm-1.3.0-6a9a526f72-10c0.zip/node_modules/@slorber/react-helmet-async/",\
         "packageDependencies": [\
           ["@slorber/react-helmet-async", "virtual:364c36414654a41acd7779e2f24782178ebbce357502c3cf97d9f9a9de095d409586bc50435fde0e431e960be818041495fa11dce1867db9588777ddcbfe61f8#npm:1.3.0"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", null],\
           ["invariant", "npm:2.2.4"],\
@@ -5025,7 +5025,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@slorber-react-helmet-async-virtual-f43afa52e5/3/.yarn/berry/cache/@slorber-react-helmet-async-npm-1.3.0-6a9a526f72-10c0.zip/node_modules/@slorber/react-helmet-async/",\
         "packageDependencies": [\
           ["@slorber/react-helmet-async", "virtual:41859983532dc4eb057c5815ba1a0efe088bbd2e621934833630b11429c9c6ad8d59f74c6d43e0900f0f60ff3962268ba7780e3faca1df8448d676aa33f64825#npm:1.3.0"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", "npm:19.0.10"],\
           ["@types/react-dom", null],\
           ["invariant", "npm:2.2.4"],\
@@ -5047,7 +5047,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/@slorber-react-helmet-async-virtual-0e92fbbff2/3/.yarn/berry/cache/@slorber-react-helmet-async-npm-1.3.0-6a9a526f72-10c0.zip/node_modules/@slorber/react-helmet-async/",\
         "packageDependencies": [\
           ["@slorber/react-helmet-async", "virtual:4d64e24e3babb99f016b47f7c01a3b83d9c74cb59b3f6735d9e3a70e1c68bde4fc26799cd9584ea36b4e00b54b0e8c303a37896edbe69448e620e6a6cb6c2bbf#npm:1.3.0"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", null],\
           ["@types/react-dom", null],\
           ["invariant", "npm:2.2.4"],\
@@ -9732,7 +9732,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/history-npm-4.10.1-ee217563ae-10c0.zip/node_modules/history/",\
         "packageDependencies": [\
           ["history", "npm:4.10.1"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["loose-envify", "npm:1.4.0"],\
           ["resolve-pathname", "npm:3.0.0"],\
           ["tiny-invariant", "npm:1.3.3"],\
@@ -14820,7 +14820,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-loadable-ssr-addon-v5-slorber-virtual-afe958f92c/3/.yarn/berry/cache/react-loadable-ssr-addon-v5-slorber-npm-1.0.1-4726604995-10c0.zip/node_modules/react-loadable-ssr-addon-v5-slorber/",\
         "packageDependencies": [\
           ["react-loadable-ssr-addon-v5-slorber", "virtual:4d64e24e3babb99f016b47f7c01a3b83d9c74cb59b3f6735d9e3a70e1c68bde4fc26799cd9584ea36b4e00b54b0e8c303a37896edbe69448e620e6a6cb6c2bbf#npm:1.0.1"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react-loadable", null],\
           ["@types/webpack", null],\
           ["react-loadable", [\
@@ -14850,7 +14850,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-router-virtual-1de0b1d452/3/.yarn/berry/cache/react-router-npm-5.3.4-cc0757f6df-10c0.zip/node_modules/react-router/",\
         "packageDependencies": [\
           ["react-router", "virtual:4d64e24e3babb99f016b47f7c01a3b83d9c74cb59b3f6735d9e3a70e1c68bde4fc26799cd9584ea36b4e00b54b0e8c303a37896edbe69448e620e6a6cb6c2bbf#npm:5.3.4"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", null],\
           ["history", "npm:4.10.1"],\
           ["hoist-non-react-statics", "npm:3.3.2"],\
@@ -14881,7 +14881,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-router-config-virtual-f3e77bc568/3/.yarn/berry/cache/react-router-config-npm-5.1.1-671f936b6b-10c0.zip/node_modules/react-router-config/",\
         "packageDependencies": [\
           ["react-router-config", "virtual:4d64e24e3babb99f016b47f7c01a3b83d9c74cb59b3f6735d9e3a70e1c68bde4fc26799cd9584ea36b4e00b54b0e8c303a37896edbe69448e620e6a6cb6c2bbf#npm:5.1.1"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", null],\
           ["@types/react-router", null],\
           ["react", "npm:18.3.1"],\
@@ -14908,7 +14908,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/react-router-dom-virtual-66ba928d3b/3/.yarn/berry/cache/react-router-dom-npm-5.3.4-678cc1057f-10c0.zip/node_modules/react-router-dom/",\
         "packageDependencies": [\
           ["react-router-dom", "virtual:4d64e24e3babb99f016b47f7c01a3b83d9c74cb59b3f6735d9e3a70e1c68bde4fc26799cd9584ea36b4e00b54b0e8c303a37896edbe69448e620e6a6cb6c2bbf#npm:5.3.4"],\
-          ["@babel/runtime", "npm:7.26.9"],\
+          ["@babel/runtime", "npm:7.27.0"],\
           ["@types/react", null],\
           ["history", "npm:4.10.1"],\
           ["loose-envify", "npm:1.4.0"],\
@@ -15075,7 +15075,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/regenerator-transform-npm-0.15.2-109e57a69f-10c0.zip/node_modules/regenerator-transform/",\
         "packageDependencies": [\
           ["regenerator-transform", "npm:0.15.2"],\
-          ["@babel/runtime", "npm:7.26.9"]\
+          ["@babel/runtime", "npm:7.27.0"]\
         ],\
         "linkType": "HARD"\
       }]\
