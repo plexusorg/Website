@@ -356,7 +356,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/generator", "npm:7.26.9"],\
           ["@babel/helper-compilation-targets", "npm:7.26.5"],\
           ["@babel/helper-module-transforms", "virtual:12b18cb40d5c617053821811de491a189d02da1d08d58f7656d9f9ecb29c954457e5dfc20f3916931f9e19b353a25ee0340013ea9e29eab98af42567b5bf0497#npm:7.26.0"],\
-          ["@babel/helpers", "npm:7.26.9"],\
+          ["@babel/helpers", "npm:7.27.0"],\
           ["@babel/parser", "npm:7.26.9"],\
           ["@babel/template", "npm:7.26.9"],\
           ["@babel/traverse", "npm:7.26.9"],\
@@ -656,12 +656,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/helpers", [\
-      ["npm:7.26.9", {\
-        "packageLocation": "../../.yarn/berry/cache/@babel-helpers-npm-7.26.9-629d8a6154-10c0.zip/node_modules/@babel/helpers/",\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-helpers-npm-7.27.0-661e2983d3-10c0.zip/node_modules/@babel/helpers/",\
         "packageDependencies": [\
-          ["@babel/helpers", "npm:7.26.9"],\
-          ["@babel/template", "npm:7.26.9"],\
-          ["@babel/types", "npm:7.26.9"]\
+          ["@babel/helpers", "npm:7.27.0"],\
+          ["@babel/template", "npm:7.27.0"],\
+          ["@babel/types", "npm:7.27.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -672,6 +672,14 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@babel/parser", "npm:7.26.9"],\
           ["@babel/types", "npm:7.26.9"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-parser-npm-7.27.0-ab7dea7b75-10c0.zip/node_modules/@babel/parser/",\
+        "packageDependencies": [\
+          ["@babel/parser", "npm:7.27.0"],\
+          ["@babel/types", "npm:7.27.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2520,6 +2528,16 @@ const RAW_RUNTIME_STATE =
           ["@babel/types", "npm:7.26.9"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-template-npm-7.27.0-941c698259-10c0.zip/node_modules/@babel/template/",\
+        "packageDependencies": [\
+          ["@babel/template", "npm:7.27.0"],\
+          ["@babel/code-frame", "npm:7.26.2"],\
+          ["@babel/parser", "npm:7.27.0"],\
+          ["@babel/types", "npm:7.27.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["@babel/traverse", [\
@@ -2543,6 +2561,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/@babel-types-npm-7.26.9-ef3f43c2d5-10c0.zip/node_modules/@babel/types/",\
         "packageDependencies": [\
           ["@babel/types", "npm:7.26.9"],\
+          ["@babel/helper-string-parser", "npm:7.25.9"],\
+          ["@babel/helper-validator-identifier", "npm:7.25.9"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:7.27.0", {\
+        "packageLocation": "../../.yarn/berry/cache/@babel-types-npm-7.27.0-4fc27759e5-10c0.zip/node_modules/@babel/types/",\
+        "packageDependencies": [\
+          ["@babel/types", "npm:7.27.0"],\
           ["@babel/helper-string-parser", "npm:7.25.9"],\
           ["@babel/helper-validator-identifier", "npm:7.25.9"]\
         ],\
