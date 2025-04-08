@@ -1,5 +1,7 @@
 # Website
 
+Notice: This is the old Plex website built with Docusaurus. The new documentation is available at [plexusorg/docs](https://github.com/plexusorg/docs).
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
